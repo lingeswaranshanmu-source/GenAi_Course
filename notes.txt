@@ -1,0 +1,6 @@
+Hello there! I am Ling
+Love to code
+
+going to create
+
+RPA-tools: PyAUTOGUI(automate Keyyboard+mouse), Playwright (all UI updates), Selenium (automates legacy systems)
