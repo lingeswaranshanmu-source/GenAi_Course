@@ -1,0 +1,9 @@
+pip install tranformers torch
+
+from transformers import pipeline
+
+generator = pipeline('text-generation', model='gpt2')
+
+results = generator("India's Independence day 1947 12AM,", max_length=30, num_return_sequences=1)
+print(results)
+

@@ -1,0 +1,37 @@
+Langchain Components:
+
+1. Data ingestions
+2. Text Spinners
+3. Embeddings
+4. Vector Store
+5. Retriever
+
+#data ingestion:
+
+Data ingested via .txt file, PDF, webpage, research doc
+
+pip install langchain-community
+
+pip install Textloader
+
+#from .txt file
+
+from langchain_community.document_loaders import TextLoader
+testloading = TextLoader('notes.txt')
+testloading.load()
+
+#
+
+
+
+text splitting:
+
+
+1. step : from langchain_community.document_loaders import PyPDFLoader 
+2. Splittext = PyPDFLoader("pdf name") 
+3. Make a variable for the load. full_text = Splittext.load() 
+4. splittext.load() 5. full_text = "\n" .join([doc.page_content for doc in splittext]) 
+6. load the text splitter 
+7.assign variable for the split text - use ( character /recursive text splitter) (set chunk size, overlap)
+7. split 8. recursive is used in majority
+
