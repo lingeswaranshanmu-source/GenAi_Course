@@ -1,0 +1,39 @@
+To install Flowise Locally
+
+1) https://github.com/coreybutler/nvm-windows/releases
+
+2) Download and Install the nvm-setup.exe
+
+3) Check NVM Version (nvm version)
+
+4) Install Node (nvm install 18.15.0)
+
+5) nvm use 18.15.0
+
+6) check node version (node -v)
+
+7) CD Downloads
+
+8) git clone https://github.com/FlowiseAI/Flowise.git
+
+9) cd Flowise
+
+10) pnpm install
+
+11) pnpm build
+
+12) Error will come like Exit Code - 134, run the below command
+
+to resolve it (set NODE_OPTIONS=--max-old-space-size=4096)  
+
+13) pnpm build (RUN this command only if you recived the error, else go to step 14)
+
+14) pnpm start
+
+15) open link in chrome and create account (http://localhost:3000)
+
+16) for close the server (in cmd -> ctrl+c)
+
+17) To open again, Open CMD and change directory to downloads/Flowise and then put command pnpm start
+
+then open http://localhost:3000

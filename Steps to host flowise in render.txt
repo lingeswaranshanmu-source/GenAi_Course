@@ -1,0 +1,29 @@
+render.com
+
+login using github
+
+deploy webservices:
+
+update environment with below credentials:
+
+FLOWISE_USERNAME
+
+FLOWISE_PASSWORD
+
+NODE_VERSION - 20.18.1
+
+PLEASE NOTE:  Only After buying the starter plan in the render.com, you can update the below environment details:
+
+DATABASE_PATH - /opt/render/.flowise
+
+APIKEY_PATH - /opt/render/.flowise
+
+LOG_PATH - /opt/render/.flowise/logs
+
+SECRETKEY_PATH - /opt/render/.flowise
+
+
+First live web- flowise deployed:
+https://ai-automation-c7yf.onrender.com
+https://ai-automation-c7yf.onrender.com
+
