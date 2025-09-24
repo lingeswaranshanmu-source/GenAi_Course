@@ -1,0 +1,12 @@
+# 1. ensure in repo root
+git status
+
+# 2. stage + commit
+git add .
+git commit -m "Your clear message"
+
+# 3. sync remote (recommended rebase)
+git pull --rebase origin main
+
+# 4. push
+git push origin main
