@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2025-09-26",
+    "exercise": "Bench Press",
+    "sets": 1,
+    "reps": 10,
+    "weight": 10.0
+  },
+  {
+    "date": "2025-09-26",
+    "exercise": "Bench press - Chest = Flat",
+    "sets": 10,
+    "reps": 150,
+    "weight": 10.0
+  },
+  {
+    "date": "2025-09-26",
+    "exercise": "Bench press - Chest = Flat",
+    "sets": 10,
+    "reps": 150,
+    "weight": 10.0
+  },
+  {
+    "date": "2025-09-26",
+    "exercise": "Bench press - Chest = Flat",
+    "sets": 10,
+    "reps": 150,
+    "weight": 10.0
+  },
+  {
+    "date": "2025-09-26",
+    "exercise": "Bench press - Chest = Flat",
+    "sets": 10,
+    "reps": 150,
+    "weight": 10.0
+  },
+  {
+    "date": "2025-09-26",
+    "exercise": "Chest - bench Press - Flat",
+    "sets": 10,
+    "reps": 100,
+    "weight": 10.0
+  },
+  {
+    "date": "2025-09-26",
+    "exercise": "Bench Press - Flat",
+    "sets": 10,
+    "reps": 100,
+    "weight": 10.0
+  }
+]
